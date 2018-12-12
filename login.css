@@ -1,0 +1,47 @@
+body{
+    background-image: url(./vote.jpg);
+}
+#login-Name{
+    font-size: 45px;
+        font-family: serif;
+    border-bottom-style: ridge;
+    margin-left:800px;
+    margin-right:100px;
+    color:crimson;
+    
+}
+#login{
+    background-color:black;
+    margin-left:800px;
+    margin-right:100px;
+    margin-top: 0px;
+    opacity: 0.60;
+    padding: 40px 80px 40px 80px;
+}
+.user{
+    font-family: monospace;
+    font-size: 29px;
+    color: darkturquoise;
+}
+#user{
+    background-color: crimson;
+    border-color: darkturquoise;
+    color: antiquewhite;
+}
+#pass{
+    background-color: crimson;
+    border-color: darkturquoise;
+    color: antiquewhite;
+}
+.form-control{
+    border-right-style: 0px;
+    height: 20px;
+}
+
+.btn{
+    width: 25%;
+     float: left;
+    border-radius: 0px;
+    height: 30px;
+    font-size: 17px;
+}
